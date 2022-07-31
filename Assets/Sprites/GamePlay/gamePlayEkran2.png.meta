@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 139f14b665514da48a8bdda4036aec02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4772571543451601400
+    second: gamePlayEkran2_0
+  - first:
+      213: -4573203665316262234
+    second: gamePlayEkran2_1
+  - first:
+      213: -7498482205632842470
+    second: gamePlayEkran2_2
+  - first:
+      213: 8685942115543785863
+    second: gamePlayEkran2_3
+  - first:
+      213: -7737009503831204224
+    second: gamePlayEkran2_4
+  - first:
+      213: -8077690161513535568
+    second: gamePlayEkran2_5
+  - first:
+      213: -2451270242423496097
+    second: gamePlayEkran2_6
+  - first:
+      213: 9136306308579538255
+    second: gamePlayEkran2_7
+  - first:
+      213: -5258598164376159207
+    second: gamePlayEkran2_8
+  - first:
+      213: -875889902183269511
+    second: gamePlayEkran2_9
+  - first:
+      213: -2231911669890124870
+    second: gamePlayEkran2_10
+  - first:
+      213: -4154997692248122530
+    second: gamePlayEkran2_11
+  - first:
+      213: -2447892351193377726
+    second: gamePlayEkran2_12
+  - first:
+      213: -8525242309741115352
+    second: gamePlayEkran2_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gamePlayEkran2_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1180
+        width: 104
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9029858849b3240800000000000000
+      internalID: 4772571543451601400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamePlayEkran2_1
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1176
+        width: 179
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae4f4b0f77b880c0800000000000000
+      internalID: -4573203665316262234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamePlayEkran2_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 667
+        width: 168
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15baa2a92a00f790800000000000000
+      internalID: -7498482205632842470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamePlayEkran2_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 666
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781a790855aaa8870800000000000000
+      internalID: 8685942115543785863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamePlayEkran2_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 667
+        width: 168
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ed15449de90a490800000000000000
+      internalID: -7737009503831204224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamePlayEkran2_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 466
+        width: 330
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b76155789746ef80800000000000000
+      internalID: -8077690161513535568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamePlayEkran2_6
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 261
+        width: 173
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52acdfa3b65bfdd0800000000000000
+      internalID: -2451270242423496097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamePlayEkran2_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 290
+        width: 154
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f453b027e2eaace70800000000000000
+      internalID: 9136306308579538255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamePlayEkran2_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 27
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c76dba4d4b507b0800000000000000
+      internalID: -5258598164376159207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamePlayEkran2_9
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 138
+        width: 10
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bb30e46c638d3f0800000000000000
+      internalID: -875889902183269511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamePlayEkran2_10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 23
+        width: 191
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab376225928a601e0800000000000000
+      internalID: -2231911669890124870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamePlayEkran2_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 106
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b9bfeec9b7656c0800000000000000
+      internalID: -4154997692248122530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamePlayEkran2_12
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 43
+        width: 10
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24419b640e6570ed0800000000000000
+      internalID: -2447892351193377726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamePlayEkran2_13
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1186
+        width: 186
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82800c7b94140b980800000000000000
+      internalID: -8525242309741115352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gamePlayEkran2_11: -4154997692248122530
+      gamePlayEkran2_4: -7737009503831204224
+      gamePlayEkran2_2: -7498482205632842470
+      gamePlayEkran2_1: -4573203665316262234
+      gamePlayEkran2_10: -2231911669890124870
+      gamePlayEkran2_5: -8077690161513535568
+      gamePlayEkran2_13: -8525242309741115352
+      gamePlayEkran2_6: -2451270242423496097
+      gamePlayEkran2_7: 9136306308579538255
+      gamePlayEkran2_0: 4772571543451601400
+      gamePlayEkran2_3: 8685942115543785863
+      gamePlayEkran2_9: -875889902183269511
+      gamePlayEkran2_12: -2447892351193377726
+      gamePlayEkran2_8: -5258598164376159207
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
